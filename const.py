@@ -1,0 +1,7 @@
+DOMAIN = "star_rennes"
+LINE_KEY = "line"
+LINE_NAME_KEY = "line_name"
+STOP_NAME_KEY = "stop_name"
+SENS_KEY = "sens"
+DESTINATION_KEY = "destination"
+ICON_URL_KEY = "icon_url"

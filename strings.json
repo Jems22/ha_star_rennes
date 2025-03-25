@@ -1,0 +1,12 @@
+{
+    "title": "Star Rennes",
+    "config": {
+        "flow_title": "Create a new stop",
+        "step": {
+            "user": {
+                "title": "Bus stop information",
+                "description": "Line, stop and destination"
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "STAR Rennes - Bus",
+    "content_in_root": true,
+    "homeassistant": "2025.3.0",
+    "hacs": "2.0.5",
+    "country": [
+        "FR"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Star Rennes",
+    "config": {
+        "flow_title": "Créer un nouveau stop",
+        "step": {
+            "user": {
+                "title": "Information sur l'arrêt de bus",
+                "description": "Ligne, arrêt et destination"
+            }
+        }
+    }
+}
