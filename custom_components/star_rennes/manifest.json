@@ -1,14 +1,14 @@
 {
+    "domain": "star_rennes",
+    "name": "STAR Rennes - Bus",
     "codeowners": [
         "@jems22"
     ],
     "config_flow": true,
     "dependencies": [],
     "documentation": "https://github.com/Jems22/ha_star_rennes",
-    "domain": "star_rennes",
     "iot_class": "cloud_polling",
     "issue_tracker": "https://github.com/Jems22/ha_star_rennes/issues",
-    "name": "STAR Rennes - Bus",
     "requirements": [],
     "version": "v1.0.0"
 }
