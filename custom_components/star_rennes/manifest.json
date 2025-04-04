@@ -2,7 +2,7 @@
     "codeowners": [
         "@jems22"
     ],
-    "config_flow": true
+    "config_flow": true,
     "dependencies": [],
     "documentation": "https://github.com/Jems22/ha_star_rennes",
     "domain": "star_rennes",
