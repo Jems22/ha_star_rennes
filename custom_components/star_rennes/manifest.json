@@ -1,6 +1,7 @@
 {
   "domain": "star_rennes",
   "name": "STAR Rennes",
+  "config_flow": true,
   "codeowners": ["@jems22"],
   "documentation": "https://github.com/Jems22/ha_star_rennes",
   "iot_class": "cloud_polling",
